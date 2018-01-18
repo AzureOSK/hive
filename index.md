@@ -1,5 +1,5 @@
-[Invisible](https://azureosk.github.com/hive/hive.html)
+[Invisible](https://azureosk.github.io/hive/hive.html)
 
-[Control Panel](https://azureosk.github.com/hive/dhive.html)
+[Control Panel](https://azureosk.github.io/hive/dhive.html)
 
 [Jekyll](https://jekyllrb.com/)
