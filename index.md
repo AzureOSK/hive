@@ -1,2 +1,2 @@
-link (hive.html)
-link (dhive.html)
+[Invisible] (hive.html)
+[Control Panel] (dhive.html)
